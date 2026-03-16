@@ -4,7 +4,7 @@ I'm a 3rd year B. TECH-CSE student specializing in Data Science with hands-on ex
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sumansett01?igsh=MWJ5cXRwajZwMHd5bw==) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/suman-sett-75737431b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-sett-75737431b/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumansett4@gmail.com)
 
 # 💻 Tech Stack:
