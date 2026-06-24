@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year B. TECH-CSE student specializing in Data Science with hands-on experience in data analytics , machine learning and web technology, looking to apply my analytical and problem-solving skills in a real-world industry role.....
+I'm a Final(4th) year B. TECH-CSE student specializing in Data Science with hands-on experience in data analytics , machine learning and web technology, looking to apply my analytical and problem-solving skills in a real-world industry role.....
 
 
 ## 🌐 Socials:
